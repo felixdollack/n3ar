@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
+//#include <malloc.h> // is part of stdlib
 #include <memory.h>
 #include <math.h>
 
